@@ -1,0 +1,4 @@
+Archivos necesarios para realizar la monitorización de pasajeros, ya esta incluido en los codigos
+la comunicación rs485 y el ordenamiento de datos, asi como el desarrollo con la libreria mux.h.
+1. Subir el archivo con ayuda de la plataforma arduino ide, el archivo tiene el nombre de Codigo_arduino.ino
+2. Conectar los sensores a los multiplexores y estos a los puertos de los arduino
