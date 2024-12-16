@@ -1,0 +1,9 @@
+En esta carpeta se encuentran los codigos y archivos para realizar las pruebas del sistema.
+Para Realizar las pruebas de comunicación RS485 entre Arduino y Raspberry
+1. Subir el archivo  rs485_prueba_func.ino al arduino nano
+2. Abrir el archivo Recepcion_datos_rs485_rasp_por.py en la raspberry pi 4
+3. Conectar mediante comunicación rs485 el arduino y la raspberry
+
+Luego de estos tres pasos se habilitaran dos ventanas una negra que nos indica la condicion de los arduinos
+y la otra es la interfaz donde se puede observar todos los asientos y el porcentaje de usuarios que hace
+el uso correcto del cinturon de seguridad. Ademas de el boton de actualizar.
