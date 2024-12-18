@@ -1,1 +1,6 @@
 Codigos y enlaces de videos para poder realizar la prueba de confiabilidad.
+Enlace para los videos test: 
+https://drive.google.com/drive/folders/1RLvYFjVIXZPKB1E38OWiMYXTv74NEC7T?usp=sharing
+1. Para probar el codigo pueds hacer uso de Visual Studio Code.
+2. Para modificar el codigo cambia esta parte en la linea 130 del codigo: Video= 'E:\prob/Pruebacabos.mp4',
+coloca la dirección actual del archivo y realiza la prueba del codigo.
