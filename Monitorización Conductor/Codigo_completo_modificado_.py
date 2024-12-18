@@ -127,8 +127,8 @@ criterion = nn.BCEWithLogitsLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
 #Captura de video o carga de video
-Video= 'E:\prob/Pruebacabos.mp4'
-cap = cv2.VideoCapture(Video) #inicializamos la captura de video
+#Video= 'E:\prob/Pruebacabos.mp4'
+cap = cv2.VideoCapture(0) #inicializamos la captura de video
 mp_mesh = mp.solutions.face_mesh #inicialilzamos face mesh (Enmallado)
 pygame.mixer.init() #inicializamos el modulo para el sonidog
 
