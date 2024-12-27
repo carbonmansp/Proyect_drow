@@ -8,3 +8,5 @@ Como asi tambien considerar que ambos equipos deben estar conectados a traves de
 Aqui un Video de Pruebas en el caso de la somnolencia: 
 https://youtu.be/s_rT0_9wyJY
 El video contiene pruebas en el caso de parpadeo, cabeceo y bostezo.
+
+Para poder realizar los test, se recomienda leer los READ y seguir los pasos, los videos de prueba estan almacenados en un drive.
